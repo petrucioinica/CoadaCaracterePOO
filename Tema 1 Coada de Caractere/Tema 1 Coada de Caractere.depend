@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583878390 source:c:\users\petru\desktop\facultate\fmi 2019-2020\sem ii\poo\tema 1 coada de caractere\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
